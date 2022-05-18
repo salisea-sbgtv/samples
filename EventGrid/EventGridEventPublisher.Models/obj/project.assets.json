@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\smalisea\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\smalisea\\source\\repos\\salisea-sbgtv\\samples\\EventGrid\\EventGridEventPublisher.Models\\EventGridEventPublisher.Models.csproj",
+      "projectName": "EventGridEventPublisher.Models",
+      "projectPath": "C:\\Users\\smalisea\\source\\repos\\salisea-sbgtv\\samples\\EventGrid\\EventGridEventPublisher.Models\\EventGridEventPublisher.Models.csproj",
+      "packagesPath": "C:\\Users\\smalisea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smalisea\\source\\repos\\salisea-sbgtv\\samples\\EventGrid\\EventGridEventPublisher.Models\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\smalisea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/sbgi/e05537ff-fb27-4d4b-8e71-ec406919ac1b/_packaging/RSN/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/sbgi/e05537ff-fb27-4d4b-8e71-ec406919ac1b/_packaging/Telerik/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
